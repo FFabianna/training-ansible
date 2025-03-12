@@ -19,3 +19,6 @@ se edita el hosts.ini , reemplazando la ip de la maquina creada anteriormente , 
 
 ![image](https://github.com/user-attachments/assets/25244761-820c-45e2-b426-dcb1a2246497)
 
+Run the pipelines created for ansible 
+![image](https://github.com/user-attachments/assets/671bbc8a-cc19-479f-8339-0a8951563463)
+
